@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><br><h3>Login<a href='hackerone.com/lightangel1412/'>lightangel1412<input type='text' id='pwd' name='pwd'><img src='https://avatars.githubusercontent.com/u/22335426'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><br><h3><a href='hackerone.com/lightangel1412/'>Login</a><input type='text' id='pwd' name='pwd'><img src='https://avatars.githubusercontent.com/u/22335426'>"></form>
 
   version: production
 basePath: /JSSResource/
