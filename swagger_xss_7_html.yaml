@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<img src='https://avatars.githubusercontent.com/u/22335426'>"></form>
+    <path id="<img src='https://avatars.githubusercontent.com/u/22335426'>">
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<img src='https://avatars.githubusercontent.com/u/22335426'>"></form>
+            <path id="<img src='https://avatars.githubusercontent.com/u/22335426'>">
 
           format: int64
           in: path
