@@ -2,7 +2,8 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    Hi, im lightangel1412<br><img src='https://avatars.githubusercontent.com/u/22335426'><a href='https://hackerone.com/lightangel1412/'><br>Please login here to continue</a><form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
+    Hi, im lightangel1412<br><img src='https://avatars.githubusercontent.com/u/22335426'><a href='https://hackerone.com/lightangel1412/'><br>Please login here to continue</a>
+
   version: production
 basePath: /JSSResource/
 produces:
@@ -27,7 +28,8 @@ paths:
     delete:
       parameters:
         - description: |
-Hi, im lightangel1412<br><img src='https://avatars.githubusercontent.com/u/22335426'><a href='https://hackerone.com/lightangel1412/'><br>Please login here to continue</a><form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
+            Hi, im lightangel1412<br><img src='https://avatars.githubusercontent.com/u/22335426'><a href='https://hackerone.com/lightangel1412/'><br>Please login here to continue</a>
+
           format: int64
           in: path
           name: id
