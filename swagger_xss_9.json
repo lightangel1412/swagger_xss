@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/lightangel1412/swagger_xss/main/swagger_xss_9.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/lightangel1412/swagger_xss/main/swagger_xss_9.yaml",
+            "name": "Foo"
+        }
+    ]
+}
