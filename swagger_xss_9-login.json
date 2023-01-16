@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/lightangel1412/swagger_xss/main/swagger_xss_9.yaml",
+    "url": "https://raw.githubusercontent.com/lightangel1412/swagger_xss/main/swagger_xss_9-login.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/lightangel1412/swagger_xss/main/swagger_xss_9.yaml",
+            "url": "https://raw.githubusercontent.com/lightangel1412/swagger_xss/main/swagger_xss_9-login.yaml",
             "name": "Foo"
         }
     ]
