@@ -6,5 +6,5 @@
    <script type="text/javascript">
       alert('xss');
    </script>
-  Hi, im lightangel1412<br><table><tr><td><img src='https://avatars.githubusercontent.com/u/22335426'><a href='https://hackerone.com/lightangel1412/'><br>Please login here to continue</a></td></tr></table>
+  Hi, im lightangel1412<br><table><tr><td><a href='https://hackerone.com/lightangel1412/'><br>Please login here to continue</a></td></tr></table>
 </svg>
